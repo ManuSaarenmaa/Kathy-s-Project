@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Random Page</h1>
+    <h1>class=<button>stronger</button></h1>
     <div class="content">
         <p>This is a random HTML page with some content.</p>
         <a href="https://www.example.com" target="_blank">Click me!</a>
